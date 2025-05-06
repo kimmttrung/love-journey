@@ -2,7 +2,9 @@
 
 ### A HTML/CSS Template, showing your love story
 
+https://kimmttrung.github.io/love-journey/
 
+### Click on the date you two fell in love 
 ### How to run this project ?
 Open the index.html with your browser
 ### How to deploy this project with Github ?
